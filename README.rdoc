@@ -2,6 +2,14 @@
 
 Set of rspec matcher to help with feature specs
 
+== include_text
+
+check content order
+
+    describe "hello world" do
+      it { is_expected.to include_text("hello").before_text("goodbye") }
+      it { is_expected.not_to include_text("goodbye").before_text("hello") }
+    end
 
 
 == Contributing to rspec-feature-expectations
