@@ -7,8 +7,8 @@ Set of rspec matcher to help with feature specs
 check content order
 
     describe "hello world" do
-      it { is_expected.to include_text("hello").before_text("goodbye") }
-      it { is_expected.not_to include_text("goodbye").before_text("hello") }
+      it { is_expected.to include_text("hello").before_text("world") }
+      it { is_expected.not_to include_text("world").before_text("hello") }
     end
 
 
