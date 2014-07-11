@@ -1,6 +1,8 @@
 = rspec-feature-expectations
 
-Description goes here.
+Set of rspec matcher to help with feature specs
+
+
 
 == Contributing to rspec-feature-expectations
  
