@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["Ian Kenney"]
   s.date = "2014-07-12"
-  s.description = "TODO: longer description of your gem"
+  s.description = "rspec matchers to aid with feature specs"
   s.email = "ian@lostock.co.uk"
   s.extra_rdoc_files = [
     "LICENSE.txt",
