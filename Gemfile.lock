@@ -71,7 +71,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.0)
-  jeweler (~> 2.0.1)
+  jeweler (~> 2.0, >= 2.0.1)
   rdoc (~> 3.12)
-  rspec (~> 3.0.0)
-  simplecov
+  rspec (~> 3.0)
+  simplecov (~> 0)

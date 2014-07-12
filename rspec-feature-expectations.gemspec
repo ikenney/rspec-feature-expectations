@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["Ian Kenney"]
   s.date = "2014-07-12"
-  s.description = "rspec matchers for feature specs"
+  s.description = "some rspec matchers for feature specs"
   s.email = "ian@lostock.co.uk"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/ikenney/rspec-feature-expectations"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.3.0"
-  s.summary = "rpsec matchers for feature specs"
+  s.summary = "rspec matchers for feature specs"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

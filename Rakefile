@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rspec-feature-expectations"
   gem.homepage = "http://github.com/ikenney/rspec-feature-expectations"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{rspec matchers for feature specs}
+  gem.description = %Q{some rspec matchers for feature specs}
   gem.email = "ian@lostock.co.uk"
   gem.authors = ["Ian Kenney"]
   # dependencies defined in Gemfile
